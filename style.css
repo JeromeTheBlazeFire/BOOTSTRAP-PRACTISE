@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: brown;
+}
+#myCarousel{
+    background-color: bisque;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    color: rgb(25, 148, 255);
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+}
